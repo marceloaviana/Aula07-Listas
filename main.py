@@ -29,3 +29,4 @@ for numero in numeros:
 print(f"A soma dos valores pares é: {soma_pares} e a soma dos valores impares é: {soma_impares}")
 
 
+# fim
